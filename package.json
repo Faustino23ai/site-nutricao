@@ -8,12 +8,6 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "overrides": {
-    "react-pdf": "npm:@empty"
-  },
-  "resolutions": {
-    "react-pdf": "npm:@empty"
-  },
   "dependencies": {
     "@fontsource/geist-mono": "^5.1.0",
     "@fontsource/geist-sans": "^5.1.0",
